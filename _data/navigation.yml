@@ -377,9 +377,6 @@ menu:
                   description: "A showcase of egregious errors in visualization"
                   url: "http://vislies.org"
                   is_external: true
-                - text: "Velo Club de VIS"
-                  description: "Meet and mingle with other bicycle riders"
-                  url: "/year/2024/info/meetups#vis-velo"
                 - text: "Vis4Good"
                   description: "Visualization for Good"
                   url: "/year/2024/info/meetups#vis4good"
